@@ -1,0 +1,38 @@
+API Key Nasa : vfB7XZ5tz6US2hz1XcEBOUPsRWUhNLKj6WpSeyhp
+
+Faire un site fictif de vente de planette à l'aide de l'api de la nasa.
+J'utilise la méthode TDD ( je fait les tests avant le code ).
+
+Différentes pages : 
+
+- Acceuil : On retrouve une image d'une planette de l'api de la nasa qui prend
+tout l'écrant avec une courte phrase en blanc ( avec 2 ou 3 animation css évidement ;) ).
+Quand je decent je vois des exemple de plannete en vente
+
+- La page de vente ( a nommer : Store ) : On trouve des cards avec l'image de la planette en vente
+et son nom apparer quand on passe la souri dessus. Il y a un systeme de recherche avec filtre,
+catégorie ect... ( si je peut, avoir ce que l'api permet de faire ).
+
+- Une page panier : On retrouve juste les card que j'ai ajouter au panier et on peut modifier le panier,
+supprimer ( quand je supprime un element ca je jette dans un trous noir ca peut etre cool a faire )
+
+- La page de profil d'une planette : Une page ou on arrive en cliquant sur une cards
+dans la page de vente. Contient l'image, le nom ( surtout pas de prix ) et une description qui vient de l'api
+si y'en a sinon je vais faire a la main ou une autre api peut etre ( a voir ce qui existe ).
+
+- La page a propo : Page ou je raconte que je suis une aventurier de l'espace qui colonise et mes en vente les planette
+faut que ca soit le plus fictif possible avec une belle histoire.
+
+Fonctionalité : 
+
+- un nom de marque et un logo : Agency Intergalactic of Trade Planet ( AITP ) logo fait ✓
+
+- Nav bar : Situé en haut elle a des effet quand on passe la souris dessus, elle disparais quand je déssent la page
+( un peut a la maniere du clone netflix ).
+
+- Recherche : Est un champ de recherche dans la page de vente classique comme on voit partout
+
+- Dark et light mode : De base le site sera sur un dark mode style espace, avec une planette assez sombre en acceuil,
+mais avec le light mode sa sera une planette très claire ou une etoile.
+
+- un bouton retour en haut de page
