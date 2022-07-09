@@ -7,7 +7,7 @@ Différentes pages :
 
 - Acceuil : On retrouve une image d'une planette de l'api de la nasa qui prend
 tout l'écrant avec une courte phrase en blanc ( avec 2 ou 3 animation css évidement ;) ).
-Quand je decent je vois des exemple de plannete en vente
+Quand je decent je vois des exemple de plannete en vente : carrousel
 
 - La page de vente ( a nommer : Store ) : On trouve des cards avec l'image de la planette en vente
 et son nom apparer quand on passe la souri dessus. Il y a un systeme de recherche avec filtre,
